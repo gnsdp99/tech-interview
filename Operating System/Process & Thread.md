@@ -116,12 +116,12 @@ TCB는 스레드와 함께 생성되고 소멸된다.
 
   - CPU 보다 시간이 오래 걸리는 I/O 작업이 끝날 때까지 다른 작업을 처리할 수 있기 때문이다.
 
-    -
+<br>
 
-  > 참조
-  >
-  > - 혼자 공부하는 컴퓨터 구조+운영체제 (강민철)
-  > - [멀티 프로세스(Multi Process)와 멀티 스레드(Multi Thread)](https://wooody92.github.io/os/%EB%A9%80%ED%8B%B0-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EB%A9%80%ED%8B%B0-%EC%8A%A4%EB%A0%88%EB%93%9C/)
-  > - [완전히 정복하는 프로세스 vs 스레드 개념](https://inpa.tistory.com/entry/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%E2%9A%94%EF%B8%8F-%EC%93%B0%EB%A0%88%EB%93%9C-%EC%B0%A8%EC%9D%B4?pidx=20)
-  > - [스레드를 많이 쓸수록 항상 성능이 좋아질까?](https://inpa.tistory.com/entry/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-Is-more-threads-always-better#%EC%8A%A4%EB%A0%88%EB%93%9C%EB%A5%BC_%EB%A7%8E%EC%9D%B4_%EC%93%B0%EB%A9%B4_%EC%93%B8%EC%88%98%EB%A1%9D_%EC%84%B1%EB%8A%A5%EC%9D%B4_%EB%86%92%EC%95%84%EC%A7%80%EB%8A%94%EA%B0%80)
-  > - [쉬운코드 - 운영체제](https://www.youtube.com/playlist?list=PLcXyemr8ZeoQOtSUjwaer0VMJSMfa-9G-)
+> 참조
+>
+> - 혼자 공부하는 컴퓨터 구조+운영체제 (강민철)
+> - [멀티 프로세스(Multi Process)와 멀티 스레드(Multi Thread)](https://wooody92.github.io/os/%EB%A9%80%ED%8B%B0-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EB%A9%80%ED%8B%B0-%EC%8A%A4%EB%A0%88%EB%93%9C/)
+> - [완전히 정복하는 프로세스 vs 스레드 개념](https://inpa.tistory.com/entry/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%E2%9A%94%EF%B8%8F-%EC%93%B0%EB%A0%88%EB%93%9C-%EC%B0%A8%EC%9D%B4?pidx=20)
+> - [스레드를 많이 쓸수록 항상 성능이 좋아질까?](https://inpa.tistory.com/entry/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-Is-more-threads-always-better#%EC%8A%A4%EB%A0%88%EB%93%9C%EB%A5%BC_%EB%A7%8E%EC%9D%B4_%EC%93%B0%EB%A9%B4_%EC%93%B8%EC%88%98%EB%A1%9D_%EC%84%B1%EB%8A%A5%EC%9D%B4_%EB%86%92%EC%95%84%EC%A7%80%EB%8A%94%EA%B0%80)
+> - [쉬운코드 - 운영체제](https://www.youtube.com/playlist?list=PLcXyemr8ZeoQOtSUjwaer0VMJSMfa-9G-)
